@@ -1,5 +1,5 @@
 // ALU Here
-
+// this is kazem here
 //ALU Info
 
 //----------
@@ -21,7 +21,8 @@
 // ADR R1, n 			Initialize R1 with a 16-bit address n, 0 <= n <= (2^16 ? 1) 	1100
 // LDR R2, [R1] 		Load R2 with the contents at memory address R1 					1101
 // STR R2, [R1] 		Store R2 at memory address R1 									1110
-// NOP 					No Operation - Skip this instruction 							1111
+// NOP 					No Operation - Skip this instruction 							1111
+
 
 //-----------------
 // Condition Codes
